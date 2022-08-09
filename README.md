@@ -20,6 +20,7 @@ A curated list of awesome Fuel resources, libraries, tools and more
 
 - [Write and deploy a simple wallet smart contract in Sway](https://fuellabs.github.io/sway/v0.19.1/introduction/overview.html#build-the-contract)
 - [How to Sway: Introduction to Sway contracts on Fuel with Rust testing](https://www.youtube.com/watch?v=RkkzLReQXI4)
+- [Sway Programming - An Introduction](https://vertical.im/0xReady/sway-programming-an-introduction-0cG5tFSv)
 - [ETHCC workshop](https://github.com/emilyaherbert/EthCC-Workshop)
 
 ### Sway Project
